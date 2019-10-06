@@ -3,10 +3,21 @@
 slisの修論をLaTeXで執筆する人がさくっと作業にとりかかるための雛形
 ## 使い方
 
+右上の「Clone or donwload]を押して「Download ZIP]を押す。するとダウンロードが始まる
 ![top-page](https://raw.githubusercontent.com/ryosukeeeee/slis_master_thesis_template/image/image/github_top.png)
 
-Clone or download
-Download ZIP
+ダウンロードが完了したらzipファイルを解凍する。
+
+解凍後のフォルダをVisual Studio Codeで開く。
+拡張機能のLaTeX Workshopをまだインストールしていない場合は、左側の丸で囲んだアイコンを選択する。
+
+![vs-code](https://github.com/ryosukeeeee/slis_master_thesis_template/blob/image/image/visual_studio_code.png)
+
+検索フォームに「LaTeX Workshop」と入力すると検索結果のトップに表示されるので選択。
+緑色の「install」ボタンを押せばインストールが始まる
+
+![latex_workshop](https://github.com/ryosukeeeee/slis_master_thesis_template/blob/image/image/latex_workshop.png)
+
 
 ## 参考
 
