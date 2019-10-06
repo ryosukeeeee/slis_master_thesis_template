@@ -81,7 +81,7 @@ slisの修論をLaTeXで執筆する人がさくっと作業にとりかかる�
 となっている。
 
 もちろん`main.tex`に
-```
+```TeX
 \chapter{はじめに}
 
 \chapter{手法}
