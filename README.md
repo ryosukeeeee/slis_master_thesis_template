@@ -4,7 +4,7 @@ slisの修論をLaTeXで執筆する人がさくっと作業にとりかかる�
 
 ## 使い方
 
-右上の「Clone or donwload]を押して「Download ZIP]を押す。するとダウンロードが始まる
+右上の「Clone or donwload」を押して「Download ZIP」を押す。するとダウンロードが始まる
 ![top-page](https://raw.githubusercontent.com/ryosukeeeee/slis_master_thesis_template/image/image/github_top.png)
 
 ダウンロードが完了したらzipファイルを解凍する。
@@ -46,7 +46,7 @@ slisの修論をLaTeXで執筆する人がさくっと作業にとりかかる�
 └── ref.bib
 ```
 
-`Master_ja`の下に指定のスタイルシートを配置してください。
+`Master_ja`の下に教務指定のスタイルシートを配置してください。
 
 **※リポジトリに含まれる論文作成テンプレートは2019.3.12版です。最新のスタイルシートを使うようにしてください**
 
@@ -59,7 +59,8 @@ slisの修論をLaTeXで執筆する人がさくっと作業にとりかかる�
 `ref.bib`はBibTeXファイルです。
 
 ## main.texについて
-各章の内容は分割したTeXファイルに書き込む
+各章の内容は個別のTeXファイルに書き込む。
+
 例えば、第1章について`main.tex`では
 
 ```TeX
@@ -78,6 +79,14 @@ slisの修論をLaTeXで執筆する人がさくっと作業にとりかかる�
 \end{document}
 ```
 となっている。
+
+もちろん`main.tex`に
+```
+\chapter{はじめに}
+
+\chapter{手法}
+```
+と書いてもよい。
 
 ## 参考
 
