@@ -1,0 +1,10 @@
+# 中間ファイルは追跡対象外
+*.aux
+*.bbl
+*.blg
+*.lof
+*.lot
+*.log
+*.lot
+*.toc
+*.synctex
