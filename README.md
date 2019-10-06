@@ -108,5 +108,5 @@ slisの修論をLaTeXで執筆する人がさくっと作業にとりかかる�
 - [ptex2pdf – There and back again](https://www.preining.info/blog/software-projects/ptex2pdf/)
 - [texjporg/ptex2pdf: Convert Japanese TeX documents to pdf](https://github.com/texjporg/ptex2pdf)
 
-### 修論スタイルシート
+### 修論 論文作成テンプレート配布元
 - [教務関係 | 筑波大学 図書館情報メディア系／大学院図書館情報メディア研究科](http://www.slis.tsukuba.ac.jp/grad/students/kyoumu/)
