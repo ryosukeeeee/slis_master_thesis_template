@@ -1,6 +1,12 @@
 # slis_thesis_template
 
 slisの修論をLaTeXで執筆する人がさくっと作業にとりかかるための雛形
+## 使い方
+
+![top-page](https://raw.githubusercontent.com/ryosukeeeee/slis_master_thesis_template/image/image/github_top.png)
+
+Clone or download
+Download ZIP
 
 ## 参考
 
